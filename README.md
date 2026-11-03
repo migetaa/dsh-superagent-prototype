@@ -37,3 +37,8 @@ Read the numbered documents in order; each builds only on the ones before it.
 ## License
 
 [MIT](LICENSE)
+
+## 项目简介
+
+本项目是一个实验性的 GitHub 自动化代理原型，
+用于验证「用 AI 自动处理仓库需求」的可行性。
